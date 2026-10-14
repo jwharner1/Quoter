@@ -1,0 +1,18 @@
+{
+  "yaml_parsing": "passed (duplicate keys rejected)",
+  "openapi_validation": "passed (OpenAPI 3.0.3)",
+  "local_reference_resolution": "passed",
+  "reference_occurrences": 433,
+  "unique_operation_ids": "passed",
+  "quoter_only": "passed (all source definitions identify Quoter API and identical Quoter server)",
+  "coverage": "passed (59 source exports and 59 rendered sidebar entries)",
+  "source_contract_preservation": "passed",
+  "operations": 59,
+  "paths": 30,
+  "schemas": 94,
+  "authentication": "apiKey header x-api-key",
+  "server": "https://api.scalepad.com/quoter",
+  "sha256": "e302565ffb8a6fe4a852b2dca8b235d83154c95af1d5beed9ae46adb1f7cd9dc",
+  "rewst_import_performed": false,
+  "live_api_calls_performed": false
+}

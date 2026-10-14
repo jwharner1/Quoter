@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="128" height="128" viewBox="0 0 128 128">
+  <title>Quoter integration</title>
+  <rect x="4" y="4" width="120" height="120"
+        rx="28" fill="#2563EB"/>
+  <path d="M38 22H76L96 42V100
+           Q96 106 90 106H38
+           Q32 106 32 100V28Q32 22 38 22Z"
+        fill="#FFFFFF"/>
+  <path d="M76 22V36Q76 42 82 42H96Z"
+        fill="#BFDBFE"/>
+  <path d="M44 52H58V65
+           Q58 75 48 78V71Q53 69 53 65H44Z
+           M66 52H80V65
+           Q80 75 70 78V71Q75 69 75 65H66Z"
+        fill="#2563EB"/>
+  <rect x="44" y="88" width="36" height="6"
+        rx="3" fill="#2563EB"/>
+</svg>
